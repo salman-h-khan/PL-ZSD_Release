@@ -44,8 +44,10 @@ To run generalized zero-shot detection on sample input kept in `Dataset/Samplein
 ## Notes on MSCOCO experiments
 The resources required to reproduce results are kept in the directory `MSCOCO`. For training and testing, we used MSCOCO-2014 train images from `train2014.zip` and validation images from `val2014.zip`. Those zipped archives are downloadable from MSCOCO website ([Link](http://cocodataset.org/#download)). Please find the exact list of images (with annotation) used during training from `MSCOCO/train_coco_seen_all.csv`, and during testing `MSCOCO/validation_coco_seen_all.csv` (for traditional detection task), `MSCOCO/validation_coco_unseen_all.csv` (for zero-shot detection task), and `MSCOCO/validation_coco_unseen_seen_all_gzsd.csv` (for generalized zero-shot detection task). 
 
-# Can you mention the results table
-# screenshots of the output (reference readme: https://github.com/jcjohnson/neural-style
+| ![ResultsSnapshot](https://salman-h-khan.github.io/images/Fig3_PL-ZSD.JPG) |
+| ![Qualitative Results](https://salman-h-khan.github.io/images/Fig5_PL-ZSD.JPG) |
+|:--:| 
+| *Objects enclosed in red bounding boxes are the unseen objects.* |
 
 ## Reference
 [1] Lin, Tsung-Yi, Priyal Goyal, Ross Girshick, Kaiming He, and Piotr Dollár. "Focal loss for dense object detection." IEEE transactions on pattern analysis and machine intelligence, 2018.
