@@ -1,0 +1,14 @@
+Dataset/Sampleinput/COCO_val2014_000000048419.jpg 1
+Dataset/Sampleinput/COCO_val2014_000000057812.jpg 2
+Dataset/Sampleinput/COCO_val2014_000000097006.jpg 3
+Dataset/Sampleinput/COCO_val2014_000000104625.jpg 4
+Dataset/Sampleinput/COCO_val2014_000000124607.jpg 5
+Dataset/Sampleinput/COCO_val2014_000000158466.jpg 6
+Dataset/Sampleinput/COCO_val2014_000000206994.jpg 7
+Dataset/Sampleinput/COCO_val2014_000000256945.jpg 8
+Dataset/Sampleinput/COCO_val2014_000000293757.jpg 9
+Dataset/Sampleinput/COCO_val2014_000000306908.jpg 10
+Dataset/Sampleinput/COCO_val2014_000000377910.jpg 11
+Dataset/Sampleinput/COCO_val2014_000000434867.jpg 12
+Dataset/Sampleinput/COCO_val2014_000000459303.jpg 13
+Dataset/Sampleinput/COCO_val2014_000000497514.jpg 14
