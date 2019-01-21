@@ -48,7 +48,7 @@ The resources required to reproduce results are kept in the directory `MSCOCO`. 
 
 ![ResultsSnapshot](https://salman-h-khan.github.io/images/Fig3_PL-ZSD.JPG) 
 ![Qualitative Results](https://salman-h-khan.github.io/images/Fig5_PL-ZSD.JPG) 
-*Objects enclosed in red bounding boxes are the unseen objects.*
+*The above results are for Generalized Zero-shot detection setting. The seen/unseen objects are enclosed in yellow/red bounding boxes.*
 
 ## Tests in the wild
 We run the PL-ZSD model on two example videos from the [Youtube-8M](https://research.google.com/youtube8m/) dataset from Google AI. The demo videos contain several seen (e.g., pottend plant, person, hand-bag) and unseen classes (cat, train, suitcase). Note that we do not apply any pre/post processing procedure across temporal domain to smooth out the predictions. 
@@ -62,6 +62,7 @@ We run the PL-ZSD model on two example videos from the [Youtube-8M](https://rese
 | [Link to Video 1](http://www.youtube.com/watch?v=Qi5HfHatVXE) | [Link to Video 2](http://www.youtube.com/watch?v=UJFUqjEd3Rw) |
 :-------------------------:|:-------------------------:
 <img src="https://salman-h-khan.github.io/images/cat_demo.gif" width="400" /> | <img src="https://salman-h-khan.github.io/images/train_demo.gif" width="400" />
+*The above results are for Generalized Zero-shot detection setting. The seen/unseen objects are enclosed in yellow/red bounding boxes.*
 
 
 ## Reference
