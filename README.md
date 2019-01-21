@@ -56,6 +56,7 @@ We run the PL-ZSD model on two example videos from the [Youtube-8M](https://rese
 <!-- [![](http://img.youtube.com/vi/Qi5HfHatVXE/0.jpg)](http://www.youtube.com/watch?v=Qi5HfHatVXE "Demo Video (Cats)") 
 [![](http://img.youtube.com/vi/UJFUqjEd3Rw/0.jpg)](http://www.youtube.com/watch?v=UJFUqjEd3Rw "Demo Video (Train station)") -->
 
+![](https://j.gifs.com/OyV1QE.gif)
 <img src="https://j.gifs.com/OyV1QE.gif" width="40" height="40" />
 
 
