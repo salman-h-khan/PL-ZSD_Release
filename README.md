@@ -72,4 +72,4 @@ year={2018}}
 ```
 
 ## Acknowledgment
-We thank the authors and contributors of original [RetinaNet implementation](https://github.com/fizyr/keras-retinanet). We also thank [Akshita Gupta](akshitac8.github.io) for testing the code.
+We thank the authors and contributors of original [RetinaNet implementation](https://github.com/fizyr/keras-retinanet). We also thank [Akshita Gupta](https://akshitac8.github.io) for testing the code.
