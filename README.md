@@ -54,13 +54,14 @@ The resources required to reproduce results are kept in the directory `MSCOCO`. 
 We run the PL-ZSD model on two example videos from the [Youtube-8M](https://research.google.com/youtube8m/) dataset from Google AI. The demo videos contain several seen (e.g., pottend plant, person, hand-bag) and unseen classes (cat, train, suitcase). Note that we do not apply any pre/post processing procedure across temporal domain to smooth out the predictions. 
 
 <!-- [![](http://img.youtube.com/vi/Qi5HfHatVXE/0.jpg)](http://www.youtube.com/watch?v=Qi5HfHatVXE "Demo Video (Cats)") 
-[![](http://img.youtube.com/vi/UJFUqjEd3Rw/0.jpg)](http://www.youtube.com/watch?v=UJFUqjEd3Rw "Demo Video (Train station)") -->
-
-<img src="https://salman-h-khan.github.io/images/cat_demo.gif" width="350" />
-<img src="https://salman-h-khan.github.io/images/train_demo.gif" width="350" />
-
+[![](http://img.youtube.com/vi/UJFUqjEd3Rw/0.jpg)](http://www.youtube.com/watch?v=UJFUqjEd3Rw "Demo Video (Train station)") 
 ![Cat Gif](https://salman-h-khan.github.io/images/cat_demo.gif)
 ![Train Gif](https://salman-h-khan.github.io/images/train_demo.gif)
+-->
+
+|<img src="https://salman-h-khan.github.io/images/cat_demo.gif" width="350" />| <img src="https://salman-h-khan.github.io/images/train_demo.gif" width="350" /> |
+|:-------------:|:-------------:|
+| [Link to Video 1](http://www.youtube.com/watch?v=Qi5HfHatVXE) | [Link to Video 1](http://www.youtube.com/watch?v=UJFUqjEd3Rw) |
 
 
 ## Reference
