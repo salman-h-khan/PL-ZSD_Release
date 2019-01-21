@@ -53,10 +53,10 @@ The resources required to reproduce results are kept in the directory `MSCOCO`. 
 ## Tests in the wild
 We run the PL-ZSD model on two example videos from the [Youtube-8M](https://research.google.com/youtube8m/) dataset from Google AI. The demo videos contain several seen (e.g., pottend plant, person, hand-bag) and unseen classes (cat, train, suitcase). Note that we do not apply any pre/post processing procedure across temporal domain to smooth out the predictions. 
 
-[//]: # ([![](http://img.youtube.com/vi/Qi5HfHatVXE/0.jpg)](http://www.youtube.com/watch?v=Qi5HfHatVXE "Demo Video (Cats)") )
-[//]: # ([![](http://img.youtube.com/vi/UJFUqjEd3Rw/0.jpg)](http://www.youtube.com/watch?v=UJFUqjEd3Rw "Demo Video (Train station)") )
+<!-- [![](http://img.youtube.com/vi/Qi5HfHatVXE/0.jpg)](http://www.youtube.com/watch?v=Qi5HfHatVXE "Demo Video (Cats)") 
+[![](http://img.youtube.com/vi/UJFUqjEd3Rw/0.jpg)](http://www.youtube.com/watch?v=UJFUqjEd3Rw "Demo Video (Train station)") -->
 
-<img src="https://gifs.com/embed/polar-loss-zsd-demo-video-cats-OyV1QE" width="40" height="40" />
+<img src="https://j.gifs.com/OyV1QE.gif" width="40" height="40" />
 
 
 ## Reference
