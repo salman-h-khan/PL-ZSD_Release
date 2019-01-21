@@ -56,7 +56,8 @@ We run the PL-ZSD model on two example videos from the [Youtube-8M](https://rese
 [//]: # ([![](http://img.youtube.com/vi/Qi5HfHatVXE/0.jpg)](http://www.youtube.com/watch?v=Qi5HfHatVXE "Demo Video (Cats)") )
 [//]: # ([![](http://img.youtube.com/vi/UJFUqjEd3Rw/0.jpg)](http://www.youtube.com/watch?v=UJFUqjEd3Rw "Demo Video (Train station)") )
 
-<div style='position:relative;padding-bottom:56.250%;'><iframe src="//gifs.com/embed/polar-loss-zsd-demo-video-cats-OyV1QE" frameborder="0" scrolling="no" width="640" height="360" style="backface-visibility: hidden; transform: scale(1); position: absolute; height: 100%; width: 100%;"></iframe></div>
+<img src="https://gifs.com/embed/polar-loss-zsd-demo-video-cats-OyV1QE" width="40" height="40" />
+
 
 ## Reference
 [1] Lin, Tsung-Yi, Priyal Goyal, Ross Girshick, Kaiming He, and Piotr Dollár. "Focal loss for dense object detection." IEEE transactions on pattern analysis and machine intelligence, 2018.
