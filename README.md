@@ -57,12 +57,11 @@ We run the PL-ZSD model on two example videos from the [Youtube-8M](https://rese
 [![](http://img.youtube.com/vi/UJFUqjEd3Rw/0.jpg)](http://www.youtube.com/watch?v=UJFUqjEd3Rw "Demo Video (Train station)") 
 ![Cat Gif](https://salman-h-khan.github.io/images/cat_demo.gif)
 ![Train Gif](https://salman-h-khan.github.io/images/train_demo.gif)
-<img src="https://salman-h-khan.github.io/images/cat_demo.gif" width="350" />
 -->
 
 | [Link to Video 1](http://www.youtube.com/watch?v=Qi5HfHatVXE) | [Link to Video 2](http://www.youtube.com/watch?v=UJFUqjEd3Rw) |
 :-------------------------:|:-------------------------:
-<img src="https://salman-h-khan.github.io/images/cat_demo.gif" width="350" /> | <img src="https://salman-h-khan.github.io/images/train_demo.gif" width="350" />
+<img src="https://salman-h-khan.github.io/images/cat_demo.gif" width="400" /> | <img src="https://salman-h-khan.github.io/images/train_demo.gif" width="400" />
 
 
 ## Reference
