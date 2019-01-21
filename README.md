@@ -41,8 +41,8 @@ arXiv preprint arXiv:1811.08982 (2018). ([Project Page](https://salman-h-khan.gi
 To run generalized zero-shot detection on sample input kept in `Dataset/Sampleinput`, simply run `gzsd.py` after installing all dependencies like Keras, Tensorflow, OpenCV and placing the pre-trained model in the `Model` directory. This code will generate the output files for each input image to `Dataset/Sampleoutput`.
 
 ## Notes on MSCOCO experiments
-The resources required to reproduce results are kept in the directory `MSCOCO`. For training and testing, we used MSCOCO-2014 train images from `train2014.zip` and validation images from `val2014.zip`. These zipped archives are downloadable from MSCOCO website ([Link](http://cocodataset.org/#download)). Please find the exact list of images (with annotations) used:
-* For traditional detection task: images used for training in `MSCOCO/train_coco_seen_all.csv`, and during testing in `MSCOCO/validation_coco_seen_all.csv`, 
+The resources required to reproduce results are kept in the directory `MSCOCO`. For training and testing, we used MSCOCO-2014 train images from `train2014.zip` and validation images from `val2014.zip`. These zipped archives are downloadable from MSCOCO website ([Link](http://cocodataset.org/#download)). Please find the exact list of images (with annotations) used for "training" in `MSCOCO/train_coco_seen_all.csv`. The lists of images used for "testing" different ZSL settings are:
+* For traditional detection task: `MSCOCO/validation_coco_seen_all.csv`, 
 * For zero-shot detection task: `MSCOCO/validation_coco_unseen_all.csv`, and 
 * For generalized zero-shot detection task: `MSCOCO/validation_coco_unseen_seen_all_gzsd.csv`.
 
