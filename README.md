@@ -58,6 +58,15 @@ We run the PL-ZSD model on two example videos from the Youtube 8M dataset. The d
 
 [2] Chua, Tat-Seng, et al. "NUS-WIDE: a real-world web image database from National University of Singapore." Proceedings of the ACM international conference on image and video retrieval. ACM, 2009.
 
+## Citation
+If you use this code, model and dataset splits for your research, please consider citing:
+```
+@article{rahman2018polarity,
+title={Polarity Loss for Zero-shot Object Detection},
+author={Rahman, Shafin and Khan, Salman and Barnes, Nick},
+journal={arXiv preprint arXiv:1811.08982},
+year={2018}}
+```
 
 ## Acknowledgment
 We thank the authors and contributors of original RetinaNet implementation (`https://github.com/fizyr/keras-retinanet`). We also thank Akshita Gupta (`akshitac8.github.io`) for testing the code.
