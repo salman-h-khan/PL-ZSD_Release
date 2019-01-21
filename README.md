@@ -61,7 +61,7 @@ We run the PL-ZSD model on two example videos from the [Youtube-8M](https://rese
 
 |<img src="https://salman-h-khan.github.io/images/cat_demo.gif" width="350" />| <img src="https://salman-h-khan.github.io/images/train_demo.gif" width="350" /> |
 |:-------------:|:-------------:|
-| [Link to Video 1](http://www.youtube.com/watch?v=Qi5HfHatVXE) | [Link to Video 1](http://www.youtube.com/watch?v=UJFUqjEd3Rw) |
+| [Link to Video 1](http://www.youtube.com/watch?v=Qi5HfHatVXE) | [Link to Video 2](http://www.youtube.com/watch?v=UJFUqjEd3Rw) |
 
 
 ## Reference
