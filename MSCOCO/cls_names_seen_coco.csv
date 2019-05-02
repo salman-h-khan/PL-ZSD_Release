@@ -1,0 +1,65 @@
+person,0
+bicycle,1
+car,2
+motorcycle,3
+bus,4
+truck,5
+boat,6
+traffic light,7
+fire hydrant,8
+stop sign,9
+bench,10
+bird,11
+dog,12
+horse,13
+sheep,14
+cow,15
+elephant,16
+zebra,17
+giraffe,18
+backpack,19
+umbrella,20
+handbag,21
+tie,22
+skis,23
+sports ball,24
+kite,25
+baseball bat,26
+baseball glove,27
+skateboard,28
+surfboard,29
+tennis racket,30
+bottle,31
+wine glass,32
+cup,33
+knife,34
+spoon,35
+bowl,36
+banana,37
+apple,38
+orange,39
+broccoli,40
+carrot,41
+pizza,42
+donut,43
+cake,44
+chair,45
+couch,46
+potted plant,47
+bed,48
+dining table,49
+tv,50
+laptop,51
+remote,52
+keyboard,53
+cell phone,54
+microwave,55
+oven,56
+sink,57
+refrigerator,58
+book,59
+clock,60
+vase,61
+scissors,62
+teddy bear,63
+toothbrush,64
