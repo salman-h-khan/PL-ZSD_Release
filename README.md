@@ -1,6 +1,6 @@
 # Polarity Loss for Zero-shot Object Detection
 
-This code is the testing side implementation of the following work:
+This code is the official implementation of the following work (train + eval):
 
 Shafin Rahman, Salman Khan, and Nick Barnes. 
 "Polarity Loss for Zero-shot Object Detection." 
