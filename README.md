@@ -55,6 +55,9 @@ The resources required to reproduce results are kept in the directory `MSCOCO`. 
 ![Qualitative Results](https://salman-h-khan.github.io/images/Fig5_PL-ZSD.JPG) 
 *The above results are for Generalized Zero-shot detection setting. The seen/unseen objects are enclosed in yellow/red bounding boxes.*
 
+## Notes on Pascal VOC experiment
+The number of images used to evaluate seen classes is not mentioned in the paper. We have used 4836 images from test+val set of 2007, where no unseen image appeared. Thus, the seen performances are the traditional detection performance of the final model. It is not generalized ZSD. To get exact images used for seen detection, please find `VOC/testval_voc07_seen.csv` at the following [link](https://www.dropbox.com/s/bqx4vq9fpy4ebqf/VOC.zip?dl=0).
+
 ## Tests in the wild
 We run the PL-ZSD model on two example videos from the [Youtube-8M](https://research.google.com/youtube8m/) dataset from Google AI. The demo videos contain several seen (e.g., pottend plant, person, hand-bag) and unseen classes (cat, train, suitcase). Note that we do not apply any pre/post processing procedure across temporal domain to smooth out the predictions. 
 
