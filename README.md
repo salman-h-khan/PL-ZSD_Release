@@ -4,7 +4,7 @@ This code is the official implementation of the following works (train + eval):
 
 * Shafin Rahman, Salman Khan, and Nick Barnes. 
 "Polarity Loss for Zero-shot Object Detection." 
-arXiv preprint arXiv:1811.08982 (2018). ([Project Page](https://salman-h-khan.github.io/ProjectPages/ZSD_Arxiv19.html))
+arXiv preprint arXiv:1811.08982 (2020). ([Project Page](https://salman-h-khan.github.io/ProjectPages/ZSD_Arxiv19.html))
 
 * Shafin Rahman, Salman Khan, and Nick Barnes. 
 "Improved Visual-Semantic Alignment for Zero-Shot Object Detection," 34th AAAI Conference on Artificial Intelligence, (AAAI), New York, US, 2020.
@@ -85,11 +85,11 @@ We run the PL-ZSD model on two example videos from the [Youtube-8M](https://rese
 ## Citation
 If you use this code, model and dataset splits for your research, please consider citing:
 ```
-@article{rahman2018polarity,
+@article{rahman2020polarity,
 title={Polarity Loss for Zero-shot Object Detection},
 author={Rahman, Shafin and Khan, Salman and Barnes, Nick},
 journal={arXiv preprint arXiv:1811.08982},
-year={2018}}
+year={2020}}
 
 @article{rahman2020improved,
   title={Improved Visual-Semantic Alignment for Zero-Shot Object Detection},
