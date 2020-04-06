@@ -1,12 +1,12 @@
 # Polarity Loss for Zero-shot Object Detection
 
-This code is the official implementation of the following work (train + eval):
+This code is the official implementation of the following works (train + eval):
 
-Shafin Rahman, Salman Khan, and Nick Barnes. 
+* Shafin Rahman, Salman Khan, and Nick Barnes. 
 "Polarity Loss for Zero-shot Object Detection." 
 arXiv preprint arXiv:1811.08982 (2018). ([Project Page](https://salman-h-khan.github.io/ProjectPages/ZSD_Arxiv19.html))
 
-Shafin Rahman, Salman Khan, and Nick Barnes. 
+* Shafin Rahman, Salman Khan, and Nick Barnes. 
 "Improved Visual-Semantic Alignment for Zero-Shot Object Detection," 34th AAAI Conference on Artificial Intelligence, (AAAI), New York, US, 2020.
 
 ![OverviewFigure](https://salman-h-khan.github.io/images/Fig2_PL-ZSD.JPG)
