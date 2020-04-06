@@ -6,6 +6,9 @@ Shafin Rahman, Salman Khan, and Nick Barnes.
 "Polarity Loss for Zero-shot Object Detection." 
 arXiv preprint arXiv:1811.08982 (2018). ([Project Page](https://salman-h-khan.github.io/ProjectPages/ZSD_Arxiv19.html))
 
+Shafin Rahman, Salman Khan, and Nick Barnes. 
+"Improved Visual-Semantic Alignment for Zero-Shot Object Detection," 34th AAAI Conference on Artificial Intelligence, (AAAI), New York, US, 2020.
+
 ![OverviewFigure](https://salman-h-khan.github.io/images/Fig2_PL-ZSD.JPG)
 
 ## Requirements
@@ -87,6 +90,13 @@ title={Polarity Loss for Zero-shot Object Detection},
 author={Rahman, Shafin and Khan, Salman and Barnes, Nick},
 journal={arXiv preprint arXiv:1811.08982},
 year={2018}}
+
+@article{rahman2020improved,
+  title={Improved Visual-Semantic Alignment for Zero-Shot Object Detection},
+  author={Rahman, Shafin and Khan, Salman and Barnes, Nick},
+  journal={34th AAAI Conference on Artificial Intelligence},
+  publisher = {AAAI},
+  year={2020}}
 ```
 
 ## Acknowledgment
